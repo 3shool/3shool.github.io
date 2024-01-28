@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /me/
 ---
 
 Buckle up, because you're about to enter the mind of Thrishul, where circuits sizzle and code sings opera. Yes, I'm a computer science enthusiast, the kind who talks to their monitor and considers debugging a form of foreplay (don't worry, my computer likes it rough).
